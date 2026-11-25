@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kabuto-goshuin.github.io/sitemap.xml
